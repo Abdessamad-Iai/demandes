@@ -1,0 +1,22 @@
+{
+  "tableData": [
+    {
+      "id": "1",
+      "type": "Attestation scolaire",
+      "date": "2024-05-28",
+      "status": "Active"
+    },
+    {
+      "id": "2",
+      "type": "Baccalauréat Définitivement",
+      "date": "2024-05-28",
+      "status": "Active"
+    },
+    {
+      "id": "3",
+      "type": "Baccalauréat Temporaire",
+      "date": "2024-05-28",
+      "status": "Active"
+    }
+  ]
+}
